@@ -1,1 +1,11 @@
-探花，https://dntqqnakxxc6i.cloudfront.net/api/app/vid/h5/m3u8/bktappup/sp/qd/no/d0/x4/2e0543dcacc84cf3bc7327028bf25164.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aW1lc3RhbXAiOjE3NTcwMjMyMDA1OTM1MzgwMDAsInVpZCI6NjczMjE1MzN9.easpZ4sbhwkGTIZSbHumTfewxwx5bAeR3i7RtM4RuvQ
+[Group]
+groupName=央视
+CCTV1,http://223.110.242.130:6610/gitv/live1/G_CCTV-1-HQ/1.m3u8
+CCTV14,https://cctvtxyh5c.liveplay.myqcloud.com/live/cctvchild_2/index.m3u8
+
+[Group]
+groupName=地方
+江苏影视[1047*576],http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
+潮安影视[640*360],http://chaoan.chaoantv.com:8278/live/chaoanyingshi.m3u8
+潮安综合[640*360],http://chaoan.chaoantv.com:8278/live/chaoanzongyi.m3u8
+峨边电视台[720*576],http://218.6.224.15:8011/vms/videos/channellive/channel15/playlist.m3u8
