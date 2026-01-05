@@ -1,11 +1,1 @@
-[Group]
-groupName=央视
-CCTV1,http://223.110.242.130:6610/gitv/live1/G_CCTV-1-HQ/1.m3u8
-CCTV14,https://cctvtxyh5c.liveplay.myqcloud.com/live/cctvchild_2/index.m3u8
-
-[Group]
-groupName=地方
-江苏影视[1047*576],http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
-潮安影视[640*360],http://chaoan.chaoantv.com:8278/live/chaoanyingshi.m3u8
-潮安综合[640*360],http://chaoan.chaoantv.com:8278/live/chaoanzongyi.m3u8
-峨边电视台[720*576],http://218.6.224.15:8011/vms/videos/channellive/channel15/playlist.m3u8
+探花,https://d1w3p997s8acw6.cloudfront.net/api/app/vid/h5/m3u8/bktappupdata/sp/is/l7/qv/ro/369d72d8e96b455897e23acc91dbbdad.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aW1lc3RhbXAiOjE3NjI1MzA2NzU4Mjk1MDc2MDAsInR5cGUiOjAsInVpZCI6NTQxMDQ1ODd9.LKxCb13uU2ss73pyqanqosXygLL5LnY-eDlu_MRZ6v4
